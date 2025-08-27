@@ -15,8 +15,8 @@ This portfolio demonstrates:
 ## 📷 Preview of Examples
 
 ### Dashboards
-![Adidas Dashboard](Dashboards/Adidas.png)  
-![Global Store Dashboard](Dashboards/globalstore.png)
+![Adidas Dashboard](dashboard/Adidas.png)  
+![Global Store Dashboard](dashboard/globalstore.png)
 
 ---
 
