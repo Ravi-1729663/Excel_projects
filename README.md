@@ -14,8 +14,9 @@ This portfolio demonstrates:
 
 ## 📷 Preview of Examples
 
-![dashboard1](dashboard/Adidas.png)  
-![dashboard2](dashboard/globalstore.png)
+### Dashboards
+![Adidas Dashboard](Dashboards/Adidas.png)  
+![Global Store Dashboard](Dashboards/globalstore.png)
 
 ---
 
@@ -26,43 +27,45 @@ excel-projects-portfolio/
 │
 ├── Functions/                        # Contains all Excel function and pivot table screenshots
 │    ├── Function_Examples.png        # Demonstrates formulas and functions
-│       # Shows pivot table summaries
+│    └── Pivot_Tables_Examples.png    # Shows pivot table summaries
 │
 ├── Dashboards/                        # Contains all Excel dashboard screenshots
-│    └── Adidas.png    # Visual dashboards for data insights
-│    └── globalstore.png 
+│    ├── Adidas.png                    # Visual dashboard for Adidas dataset
+│    └── globalstore.png               # Visual dashboard for Global Store dataset
+│
 ├── README.md                         # Project overview and instructions
 └── LICENSE                           # License information for the repository
 
-```plaintext
+```
+---
 
-🎯 Purpose
+
+## 🎯 Purpose
+
 This portfolio is designed to:
 
-Showcase hands-on Excel skills including formulas, pivot tables, and dashboards.
+- Showcase hands-on Excel skills including **formulas, pivot tables, and dashboards**.  
+- Provide a **visual reference** for Excel techniques applied in real-world scenarios.  
+- Serve as a **professional portfolio** for recruiters, hiring managers, or anyone learning Excel analytics.  
+- Highlight my ability to create **interactive dashboards**, apply **advanced functions**, and summarize data effectively for business insights.
 
-Provide a visual reference for Excel techniques applied in real-world scenarios.
+---
 
-Serve as a professional portfolio for recruiters, hiring managers, or anyone learning Excel analytics.
+## 🛠️ How to Explore
 
-Highlight my ability to create interactive dashboards, apply advanced functions, and summarize data effectively for business insights.
+1. Open the **Functions folder** to view formulas and pivot table examples.  
+2. Open the **Dashboards folder** to see interactive and visual dashboards.  
+3. Each screenshot demonstrates **key Excel skills**, suitable for portfolio presentation or learning inspiration.
 
-🛠️ How to Explore
+---
 
-Open the Functions folder to view formulas and pivot table examples.
+## 🛡️ License
 
-Open the Dashboards folder to see interactive and visual dashboards.
+This project is licensed under the **MIT License**. You are free to use, modify, and share this portfolio with proper attribution.
 
-Each screenshot demonstrates key Excel skills, suitable for portfolio presentation or learning inspiration.
+---
 
-🛡️ License
+## 🌟 About Me
 
-This project is licensed under the MIT License
-. You are free to use, modify, and share this portfolio with proper attribution.
 
-🌟 About Me
-
-Hi there! I'm Bovilla Ravi Sankar Reddy, a passionate data analyst.
-
-“Showcasing comprehensive Excel skills — functions, pivot tables, and dashboards — all in one place.”
-
+Hi there! I'm **RAVI SANKAR REDDY BOVILLA **. I’m  passionate about data analyst and data engineering
