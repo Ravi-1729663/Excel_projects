@@ -16,7 +16,40 @@ This portfolio demonstrates:
 
 ### Dashboards
 ![Adidas Dashboard](dashboard/Adidas.png)  
+## 📈 Dashboard Insights
+
+### 1️⃣ Adidas US Sales Dashboard
+
+**Key Quantitative Insights**
+- **Retailer Performance:** Amazon and Walmart are the top-performing retailers, accounting for a combined $328.7M in sales.  
+- **Product Profitability:** Street Footwear generates ~$24.5M in profit, indicating strong demand and healthy margins.  
+- **Gender & Demographics:** Sales to men exceed those to women by a 2:1 ratio, highlighting a market gap.  
+- **Sales Channel:** Online sales drive over 55% of revenue, emphasizing the importance of e-commerce.  
+- **Geographic Performance:** West region leads in sales and profit, while Southeast and Midwest are underperforming.
+
+**Qualitative Insights & Business Impact**
+- **Strategic Focus on Key Partners:** Strengthen relationships with Amazon and Walmart to maximize revenue.  
+- **Opportunity for Market Expansion:** Targeted marketing campaigns can increase sales to women.  
+- **Inventory & Profit Optimization:** Scatter plots help identify high-volume/low-margin and high-margin/low-volume products for strategic decisions.
+
+---
+
 ![Global Store Dashboard](dashboard/globalstore.png)
+
+### 2️⃣ Corporate Sales Dashboard
+
+**Key Quantitative Insights**
+- **Profitability by Segment:** Consumer (51.81%) and Corporate (30.27%) segments drive the majority of profits.  
+- **Shipping Efficiency:** Standard Class is used for 59.32% of orders with positive profit, while Same Day shipping shows negative margins.  
+- **Top Performers:** Top 5 customers and top 10 cities by sales include New York City, Los Angeles, and Seattle.  
+- **Discounting Impact:** High discount percentages (≥30%) correlate with reduced profit margins and occasional losses.
+
+**Qualitative Insights & Business Impact**
+- **Strategic Resource Allocation:** Focus on Consumer and Corporate segments to maximize ROI.  
+- **Optimizing Logistics:** Insights into shipping modes can inform pricing and operational strategy.  
+- **Targeted Sales & Marketing:** Use top customers and cities to prioritize campaigns and replicate success.  
+- **Rethinking Discount Policy:** Data supports reviewing discount strategy to protect profitability.
+
 
 ---
 
