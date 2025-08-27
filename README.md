@@ -32,8 +32,8 @@ All examples, pivot tables, and dashboards are included in a **single folder**, 
 
 Here are some **highlighted screenshots** from the portfolio:
 
-![Function Example](dashboard/Adidas_dashboard.png)  
-![Pivot Table Example](dashboard/globalstore_salesdashboard.png)  
+![Function Example](dashboard/Adidas.png)  
+![Pivot Table Example](dashboard/globalstore.png)  
 
 ---
 
