@@ -35,6 +35,8 @@ This portfolio demonstrates:
 ---
 
 ![Global Store Dashboard](dashboard/globalstore.png)
+## 📈 Dashboard Insights
+
 
 ### 2️⃣ Corporate Sales Dashboard
 
